@@ -11,13 +11,11 @@ ___ -->
 ## Methods
 
 ### Endpoints: 
-    https://p1myy1ofs6.execute-api.us-west-2.amazonaws.com/default/
-
-### Brand Endpoint
-    GET login-auth-api/v1/login
+    https://p1myy1ofs6.execute-api.us-west-2.amazonaws.com/default/login-auth-api/v1/login
 
 ###### Headers to set
     1. Content-Type = application/json
+
 ##### JSON Request Body
 ```
 {
